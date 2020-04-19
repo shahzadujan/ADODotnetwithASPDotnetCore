@@ -1,0 +1,28 @@
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.deps.json
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.runtimeconfig.json
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.runtimeconfig.dev.json
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.dll
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.pdb
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.csprojAssemblyReference.cache
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.csproj.CoreCompileInputs.cache
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorAssemblyInfo.cache
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorAssemblyInfo.cs
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.AssemblyInfoInputs.cache
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.AssemblyInfo.cs
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorTargetAssemblyInfo.cache
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.dll
+C:\Users\UJAN\source\repos\ADODotnetwithASPDotnetCore\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.pdb
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.deps.json
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.runtimeconfig.json
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.runtimeconfig.dev.json
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.dll
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\bin\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.pdb
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.csprojAssemblyReference.cache
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.csproj.CoreCompileInputs.cache
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorAssemblyInfo.cache
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorAssemblyInfo.cs
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.AssemblyInfoInputs.cache
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.AssemblyInfo.cs
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.RazorTargetAssemblyInfo.cache
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.dll
+D:\Articles\DB operations in ASP.NET Core Web API using ADO.NET\ADODotnetwithASPDotnetCore\obj\Debug\netcoreapp2.1\ADODotnetwithASPDotnetCore.pdb
